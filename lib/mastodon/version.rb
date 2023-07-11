@@ -17,7 +17,7 @@ module Mastodon
     end
 
     def flags
-      '+aniwork'
+      '+bird'
     end
 
     def suffix
